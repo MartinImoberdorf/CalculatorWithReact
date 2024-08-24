@@ -15,6 +15,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ## Contact
 For any questions or comments, feel free to contact us at tinchoimo@hotmail.com
 
-## Authors
+## Author
 
 - [@MartinImoberdorf](https://www.github.com/MartinImoberdorf)
