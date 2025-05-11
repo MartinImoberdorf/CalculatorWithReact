@@ -1,6 +1,7 @@
 # Calculator with React
 
-<img src="https://raw.githubusercontent.com/MartinImoberdorf/CalculatorWithReact/master/Imgs/Image.PNG" alt="Imagen Calculator" />
+![Imagen Calculator](https://github.com/MartinImoberdorf/CalculatorWithReact/blob/master/Imgs/Image.PNG?raw=true)
+
 
 ## Available Scripts
 
